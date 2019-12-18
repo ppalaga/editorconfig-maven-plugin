@@ -37,7 +37,7 @@
       <plugin>
         <groupId>org.ec4j.maven</groupId>
         <artifactId>editorconfig-maven-plugin</artifactId>
-        <version>${it-project.version}</version>
+        <version>0.0.10</version>
         <executions>
           <execution>
             <id>check</id>
